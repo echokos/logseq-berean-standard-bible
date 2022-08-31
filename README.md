@@ -12,5 +12,5 @@ The original files are [located here](https://bereanbible.com/bsb.txt) and the l
 
 1. Simply download a zip of the files and unzip to your Logseq graph directory. I recommend deleting the Readme.md file.
 2. Re-index your graph
-3. The files use namespaces to group the books together: Holy Bible/Name of Book
-4. To reference a verse, type (( and type the name of the book plus the chapter and verse.  For instance (( John 3:16 )) - this will then display the verse in your current page.
+3. The files use namespaces to group the books together: Holy Bible/Name of Book so you can visit [[Holy Bible]] to view all the books grouped by Old and New Testament.
+4. To reference a verse anywhere in Logseq, type (( and type the name of the book plus the chapter and verse.  For instance (( John 3:16 )) - this will then display the verse in your current page.
