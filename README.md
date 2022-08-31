@@ -7,7 +7,7 @@ Free Licensing for use in Websites, Apps, Software, and Audio:  http://berean.bi
 
 ## Use of the Berean Standard Bible Markdown for Logseq
 
-1. Simply download a zip of the files and unzip to your Logseq graph directory.
+1. Simply download a zip of the files and unzip to your Logseq graph directory. I recommend deleting the Readme.md file.
 
 2. The files use namespaces to group the books together: Holy Bible/Name of Book
 
